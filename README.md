@@ -32,24 +32,23 @@ Video Series explaining "Introduction to Reinforcement Learning" from Sutton and
 
 Henry AI Labs
 
-### Introduction to Reinforcement Learning: Chapter 1
+### Chapter 1: Introduction to Reinforcement Learning
 
-### Reinforcement Learning Chapter 2: Multi-Armed Bandits
+### Chapter 2: Multi-Armed Bandits
 
-### Markov Decision Process - Reinforcement Learning Chapter 3
+### Chapter 3: Markov Decision Process
 
-### Dynamic Programming - Reinforcement Learning Chapter 4
+### Chapter 4: Dynamic Programming
 
-### Monte Carlo Methods - Reinforcement Learning Chapter 5
+### Chapter 5: Monte Carlo Methods
 
-### Temporal Difference Learning - Reinforcement Learning Chapter 6
+### Chapter 6: Temporal Difference Learning
 
-### n-step Bootstrapping - Reinforcement Learning Chapter 7!
+### Chapter 7: n-step Bootstrapping
 
-### Planning and Learning - Reinforcement Learning Chapter 8
+### Chapter 8: Planning and Learning
 
 
--------
 
 
 
