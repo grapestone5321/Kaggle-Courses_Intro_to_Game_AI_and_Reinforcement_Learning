@@ -9,7 +9,7 @@ https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning
 
 -------
 
-## papers
+# papers
 
 ### Reinforcement Learning: An Introduction second edition
 Richard S. Sutton and Andrew G. Barto
