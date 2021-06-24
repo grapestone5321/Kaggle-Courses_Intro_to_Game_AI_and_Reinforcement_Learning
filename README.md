@@ -195,6 +195,13 @@ Professor Emma Brunskill
 ## Udacity-Reinforcement Learning
 https://classroom.udacity.com/courses/ud600
 
+-------
+
+## GitHub
+
+### Denny Britz's GitHub repository
+https://github.com/dennybritz/reinforcement-learning
+
 
 -------
 
