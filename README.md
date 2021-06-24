@@ -118,4 +118,11 @@ Recorded: July 2017
 
 -------
 
+## Stanford CS234: Reinforcement Learning | Winter 2019
+https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u
+
+Professor Emma Brunskill
+
+-------
+
 
