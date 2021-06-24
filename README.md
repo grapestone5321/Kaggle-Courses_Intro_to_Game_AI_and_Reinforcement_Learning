@@ -60,23 +60,33 @@ Henry AI Labs
 
 
 
+
 -------
 
-### DeepMind's Richard Sutton - The Long-term of AI & Temporal-Difference Learning
-https://www.youtube.com/watch?v=EeMCEQa85tw
+## Reinforcement Learning
+https://www.youtube.com/channel/UCzlywAvDItOPqXCnTiNIUXw
 
-Link to the slides: http://videolectures.net/site/normal_...
+Daniel Montemayor
 
-DeepMind announced in July, 2017 that Prof. Richard Sutton would be leading DeepMind Alberta.
+Figures from Sutton and Barto 2018, Reinforcement Learning: An Introduction second edition, licensed under the Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License.
 
-Richard S. Sutton is a Canadian computer scientist. Currently he is professor of Computer Science and iCORE chair at the University of Alberta. Dr. Sutton is considered one of the founding fathers of modern computational reinforcement learning, having several significant contributions to the field, including temporal difference learning, policy gradient methods, the Dyna architecture.
+### Reinforcement Learning Lecture 1
+Mar 31, 2020
 
-Recorded: July 2017
+We discuss k-armed bandit, value approximation, non-stationary targets, and contextual bandits. 
+
+### Reinforcement Learning Lecture 2
+
+We discuss dynamic programming to conduct policy improvement when we have a model of the environment and a finite state space.  
+
+### Reinforcement Learning Lecture 3
+
+We discuss model-free learning and treating continuous state spaces. 
 
 
+### Reinforcement Learning Lecture 4
 
-
-
+We walk through a Q-learning implementation in Python building an environment class and an agent class.
 
 -------
 
@@ -90,6 +100,20 @@ Andrew G. Barto is a professor of computer science at University of Massachusett
 
 His main research area is reinforcement learning.
 
+
+
+-------
+
+### DeepMind's Richard Sutton - The Long-term of AI & Temporal-Difference Learning
+https://www.youtube.com/watch?v=EeMCEQa85tw
+
+Link to the slides: http://videolectures.net/site/normal_...
+
+DeepMind announced in July, 2017 that Prof. Richard Sutton would be leading DeepMind Alberta.
+
+Richard S. Sutton is a Canadian computer scientist. Currently he is professor of Computer Science and iCORE chair at the University of Alberta. Dr. Sutton is considered one of the founding fathers of modern computational reinforcement learning, having several significant contributions to the field, including temporal difference learning, policy gradient methods, the Dyna architecture.
+
+Recorded: July 2017
 
 
 -------
