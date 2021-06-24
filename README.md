@@ -19,6 +19,7 @@ https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf
 ## udacity/rl-cheatsheet
 https://github.com/udacity/rl-cheatsheet/blob/master/cheatsheet.pdf
 
+This sheet contains all of the notation and algorithms. Please only use this sheet as a supplement to your own notes! :)
 
 -------
 
