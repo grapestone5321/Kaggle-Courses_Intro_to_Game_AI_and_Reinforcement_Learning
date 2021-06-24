@@ -23,3 +23,36 @@ This sheet contains all of the notation and algorithms. Please only use this she
 
 -------
 
+## Reinforcement Learning
+https://www.youtube.com/playlist?list=PLnn6VZp3hqNvRrdnMOVtgV64F_O-61C1D
+
+updated on Jan 5, 2020
+
+Video Series explaining "Introduction to Reinforcement Learning" from Sutton and Barto chapter-by-chapter!
+
+Henry AI Labs
+
+### Introduction to Reinforcement Learning: Chapter 1
+
+### Reinforcement Learning Chapter 2: Multi-Armed Bandits
+
+### Markov Decision Process - Reinforcement Learning Chapter 3
+
+### Dynamic Programming - Reinforcement Learning Chapter 4
+
+### Monte Carlo Methods - Reinforcement Learning Chapter 5
+
+### Temporal Difference Learning - Reinforcement Learning Chapter 6
+
+### n-step Bootstrapping - Reinforcement Learning Chapter 7!
+
+### Planning and Learning - Reinforcement Learning Chapter 8
+
+
+-------
+
+
+
+
+-------
+
