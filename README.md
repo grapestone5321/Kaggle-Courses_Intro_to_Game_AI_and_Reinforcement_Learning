@@ -16,6 +16,9 @@ Richard S. Sutton and Andrew G. Barto
 
 https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf
 
+## udacity/rl-cheatsheet
+https://github.com/udacity/rl-cheatsheet/blob/master/cheatsheet.pdf
+
 
 -------
 
