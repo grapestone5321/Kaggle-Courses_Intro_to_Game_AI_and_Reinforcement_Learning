@@ -3,9 +3,17 @@ Kaggle-Intro_to_Game_AI_and_Reinforcement_Learning
 
 
 -------
-# Courses
+
+# Kaggle-Courses
+
 ## Intro to Game AI and Reinforcement Learning
 https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning
+
+
+### Instructor:  Alexis Cook - AI Educator
+Alexis has taught data science for several online learning platforms, including Udacity. 
+
+She holds degrees from Duke University, the University of Michigan, and Brown University.
 
 -------
 
@@ -22,6 +30,8 @@ https://github.com/udacity/rl-cheatsheet/blob/master/cheatsheet.pdf
 This sheet contains all of the notation and algorithms. Please only use this sheet as a supplement to your own notes! :)
 
 -------
+
+# YouTube
 
 ## Reinforcement Learning
 https://www.youtube.com/playlist?list=PLnn6VZp3hqNvRrdnMOVtgV64F_O-61C1D
@@ -50,8 +60,38 @@ Henry AI Labs
 
 
 
+-------
+
+### DeepMind's Richard Sutton - The Long-term of AI & Temporal-Difference Learning
+https://www.youtube.com/watch?v=EeMCEQa85tw
+
+Link to the slides: http://videolectures.net/site/normal_...
+
+DeepMind announced in July, 2017 that Prof. Richard Sutton would be leading DeepMind Alberta.
+
+Richard S. Sutton is a Canadian computer scientist. Currently he is professor of Computer Science and iCORE chair at the University of Alberta. Dr. Sutton is considered one of the founding fathers of modern computational reinforcement learning, having several significant contributions to the field, including temporal difference learning, policy gradient methods, the Dyna architecture.
+
+Recorded: July 2017
+
+
+
 
 
 
 -------
+
+### A History of Reinforcement Learning - Prof. A.G. Barto
+https://www.youtube.com/watch?v=ul6B2oFPNDM
+
+
+Recorded July 19th, 2018 at IJCAI2018
+
+Andrew G. Barto is a professor of computer science at University of Massachusetts Amherst, and chair of the department since January 2007. 
+
+His main research area is reinforcement learning.
+
+
+
+-------
+
 
