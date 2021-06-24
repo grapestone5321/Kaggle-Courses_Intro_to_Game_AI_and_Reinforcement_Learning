@@ -90,6 +90,37 @@ We walk through a Q-learning implementation in Python building an environment cl
 
 -------
 
+## Introduction to Reinforcement learning with David Silver
+Last updated on May 1, 2020
+
+DeepMind
+
+Interested in learning more about reinforcement learning? Follow along with Dave Silver as he gives a comprehensive explanation of everything RL.
+
+### Lecture 1: Introduction to Reinforcement Learning
+
+### Lecture 2: Markov Decision Process
+
+### Lecture 3: Planning by Dynamic Programming
+
+### Lecture 4: Model-Free Prediction
+
+### Lecture 5: Model Free Control
+
+### Lecture 6: Value Function Approximation
+ 
+### Lecture 7: Policy Gradient Methods
+
+### Lecture 8: Integrating Learning and Planning
+
+### Lecture 9: Exploration and Exploitation
+
+### Lecture 10: Classic Games
+
+
+
+-------
+
 ### A History of Reinforcement Learning - Prof. A.G. Barto
 https://www.youtube.com/watch?v=ul6B2oFPNDM
 
