@@ -124,36 +124,36 @@ https://sites.google.com/view/deep-rl-bootcamp/lectures
 
 26-27 August 2017   |   Berkeley CA
 
-### Lectures
-- Core Lecture 1 Intro to MDPs and Exact Solution Methods -- Pieter Abbeel  (video | slides)
+### Lectures (video | slides)
+- Core Lecture 1 Intro to MDPs and Exact Solution Methods -- Pieter Abbeel 
 
-- Core Lecture 2 Sample-based Approximations and Fitted Learning -- Rocky Duan  (video | slides)
+- Core Lecture 2 Sample-based Approximations and Fitted Learning -- Rocky Duan 
 
-- Core Lecture 3 DQN + Variants -- Vlad Mnih  (video | slides)
+- Core Lecture 3 DQN + Variants -- Vlad Mnih  
 
-- Core Lecture 4a Policy Gradients and Actor Critic -- Pieter Abbeel (video | slides)
+- Core Lecture 4a Policy Gradients and Actor Critic -- Pieter Abbeel 
 
-- Core Lecture 4b Pong from Pixels -- Andrej Karpathy  (video | slides)
+- Core Lecture 4b Pong from Pixels -- Andrej Karpathy  
 
-- Core Lecture 5 Natural Policy Gradients, TRPO, and PPO -- John Schulman (video | slides)
+- Core Lecture 5 Natural Policy Gradients, TRPO, and PPO -- John Schulman 
 
-- Core Lecture 6 Nuts and Bolts of Deep RL Experimentation  -- John Schulman  (video | slides)
+- Core Lecture 6 Nuts and Bolts of Deep RL Experimentation  -- John Schulman  
 
-- Core Lecture 7 SVG, DDPG, and Stochastic Computation Graphs -- John Schulman  (video | slides)
+- Core Lecture 7 SVG, DDPG, and Stochastic Computation Graphs -- John Schulman  
 
-- Core Lecture 8 Derivative-free Methods -- Peter Chen (video | slides)
+- Core Lecture 8 Derivative-free Methods -- Peter Chen 
 
-- Core Lecture 9 Model-based RL -- Chelsea Finn (video | slides)
+- Core Lecture 9 Model-based RL -- Chelsea Finn 
 
-- Core Lecture 10a Utilities  -- Pieter Abbeel (video | slides)
+- Core Lecture 10a Utilities  -- Pieter Abbeel 
 
-- Core Lecture 10b Inverse RL -- Chelsea Finn (video | slides)
+- Core Lecture 10b Inverse RL -- Chelsea Finn 
 
-- Frontiers Lecture I: Recent Advances, Frontiers and Future of Deep RL -- Vlad Mnih (video | slides)
+- Frontiers Lecture I: Recent Advances, Frontiers and Future of Deep RL -- Vlad Mnih 
 
-- Frontiers Lecture II: Recent Advances, Frontiers and Future of Deep RL -- Sergey Levine (video | slides)
+- Frontiers Lecture II: Recent Advances, Frontiers and Future of Deep RL -- Sergey Levine 
 
-- TAs Research Overviews (video | slides)
+- TAs Research Overviews 
 
 -------
 
