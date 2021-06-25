@@ -19,7 +19,7 @@ She holds degrees from Duke University, the University of Michigan, and Brown Un
 
 # Papers
 
-### Reinforcement Learning: An Introduction second edition
+## Reinforcement Learning: An Introduction second edition
 Richard S. Sutton and Andrew G. Barto
 
 https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf
@@ -27,7 +27,9 @@ https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf
 ## udacity/rl-cheatsheet
 https://github.com/udacity/rl-cheatsheet/blob/master/cheatsheet.pdf
 
-This sheet contains all of the notation and algorithms. Please only use this sheet as a supplement to your own notes! :)
+This sheet contains all of the notation and algorithms. 
+
+Please only use this sheet as a supplement to your own notes! :)
 
 -------
 
@@ -61,6 +63,30 @@ Henry AI Labs
 ### Chapter 7: n-step Bootstrapping
 
 ### Chapter 8: Planning and Learning
+
+         1 Introduction 
+   
+       I Tabular Solution Methods 
+         2 Multi-armed Bandits 
+         3 Finite Markov Decision Processes 
+         4 Dynamic Programming 
+         5 Monte Carlo Methods 
+         6 Temporal-Di↵erence Learning 
+         7 n-step Bootstrapping 
+         8 Planning and Learning with Tabular Methods
+
+      II Approximate Solution Methods 
+         9 On-policy Prediction with Approximation 
+        10 On-policy Control with Approximation  
+        11 *O↵-policy Methods with Approximation 
+        12 Eligibility Traces 
+        13 Policy Gradient Methods
+   
+      III Looking Deeper 
+        14 Psychology 
+        15 Neuroscience 
+        16 Applications and Case Studies 
+        17 Frontiers 
 
 
 
@@ -99,7 +125,9 @@ Last updated on May 1, 2020
 
 DeepMind
 
-Interested in learning more about reinforcement learning? Follow along with Dave Silver as he gives a comprehensive explanation of everything RL.
+Interested in learning more about reinforcement learning? 
+
+Follow along with Dave Silver as he gives a comprehensive explanation of everything RL.
 
 ### Lecture 1: Introduction to Reinforcement Learning
 
