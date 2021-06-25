@@ -38,7 +38,11 @@ https://www.youtube.com/playlist?list=PLnn6VZp3hqNvRrdnMOVtgV64F_O-61C1D
 
 updated on Jan 5, 2020
 
-Video Series explaining "Introduction to Reinforcement Learning" from Sutton and Barto chapter-by-chapter!
+Video Series explaining:
+
+### "Introduction to Reinforcement Learning" from Sutton and Barto
+
+chapter-by-chapter!
 
 Henry AI Labs
 
