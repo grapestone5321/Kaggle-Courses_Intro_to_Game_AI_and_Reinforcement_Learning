@@ -17,7 +17,7 @@ She holds degrees from Duke University, the University of Michigan, and Brown Un
 
 -------
 
-# papers
+# Papers
 
 ### Reinforcement Learning: An Introduction second edition
 Richard S. Sutton and Andrew G. Barto
