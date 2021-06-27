@@ -121,6 +121,8 @@ We walk through a Q-learning implementation in Python building an environment cl
 -------
 
 ## Introduction to Reinforcement learning with David Silver
+https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB
+
 Last updated on May 1, 2020
 
 DeepMind
