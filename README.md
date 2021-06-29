@@ -153,6 +153,19 @@ Follow along with Dave Silver as he gives a comprehensive explanation of everyth
 
 -------
 
+## Demis Hassabis
+
+Demis Hassabis CBE FRS FREng FRSA (born 27 July 1976) is a British artificial intelligence researcher, neuroscientist, video game designer, entrepreneur, and five times winner of the Pentamind board games championship.
+
+He is the chief executive officer and co-founder of DeepMind, and a UK Government AI Advisor since 2018.
+
+### Demis Hassabis: creativity and AI – The Rothschild Foundation Lecture
+https://www.youtube.com/watch?v=d-bvsJWmqlc
+
+
+
+-------
+
 ## Deep RL Bootcamp
 https://sites.google.com/view/deep-rl-bootcamp/lectures
 
